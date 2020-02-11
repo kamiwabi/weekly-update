@@ -2,7 +2,7 @@
 
 ## About
 
-This repo is used as a centralized artifacts for [Wabi Teknologi](http://kamiwabi.id) program: **Software and Data Technology - Weekly Update**. It's a special program, consists of hands on workshop (around 2-3 hours) about current issues related to software anda data technology. As its name implies, the update will be done every week. You are cordially invited to attend the workshop. See our [Instagram](https://www.instagram.com/kamiwabi/?hl=id) for more information.
+This repo is used as a centralized artifacts for [Wabi Teknologi](http://kamiwabi.id) program: **Software and Data Technology - Weekly Update**. It's a special program, consists of hands on workshop (around 2-3 hours) about current issues related to software and data technology. As its name implies, the update will be done every week. You are cordially invited to attend the workshop. See our [Instagram](https://www.instagram.com/kamiwabi/?hl=id) for more information.
 
 ## List
 
