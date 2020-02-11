@@ -10,8 +10,7 @@ workshop (around 2-3 hours) about current issues related to software anda data t
 
 | No  | Date | Title | Presenter |
 | ---:| ---- |-------| ------ |
-| 1   | Feb 21, 2020 - 16:00 | [Native Cloud Application Development using Ballerina](week-0001/) | Dr. Bambang Purnomosidi
-D. P. |
+| 1   | Feb 21, 2020 - 16:00 | [Native Cloud Application Development using Ballerina](week-0001/) | Dr. Bambang Purnomosidi D. P. |
 
 ## License
 
