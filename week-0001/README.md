@@ -2,7 +2,7 @@
 
 [Back to list](https://github.com/kamiwabi/weekly-update)
 
-![Poster](week1--ballerina.jpg]
+![Poster](week1--ballerina.jpg)
 
 ## Software Needed
 
