@@ -2,6 +2,8 @@
 
 [Back to list](https://github.com/kamiwabi/weekly-update)
 
+![Poster](week1--ballerina.jpg]
+
 ## Software Needed
 
 1.  [Ballerina - mainly jBallerina](https://ballerina.io/downloads/)
