@@ -9,6 +9,7 @@ This repo is used as a centralized artifacts for [Wabi Teknologi](http://kamiwab
 | No  | Date | Title | Presenter |
 | ---:| ---- |-------| ------ |
 | 1   | Feb 21, 2020 - 16:00 | [Native Cloud Application Development using Ballerina](week-0001/) | Dr. Bambang Purnomosidi D. P. |
+| 2   | Feb 28, 2020 - 16:00 | [Introduction to TypeScript and Its Ecosystem](week-0002/) | Dr. Bambang Purnomosidi D. P. |
 
 ## License
 
